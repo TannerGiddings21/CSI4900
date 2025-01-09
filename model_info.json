@@ -2,26 +2,31 @@
     "CNN": [
         "[((1, (3, 3)),)]",
         "[((1, (3, 3)),)]",
+        "[((1, (3, 3)),)]",
         "[((1, (3, 3)),)]"
     ],
     "Dense": [
         "[(32,)]",
         "[(32,)]",
-        "[(32,)]"
+        "[(32,)]",
+        "[(64,)]"
     ],
     "batch_size": [
         32,
         64,
-        128
+        128,
+        32
     ],
     "filename": [
         "model_configs/model0_savefile",
         "model_configs/model1_savefile",
-        "model_configs/model2_savefile"
+        "model_configs/model2_savefile",
+        "model_configs/model3_savefile"
     ],
     "accuracy": [
         0.95848149061203,
         0.9561296105384827,
-        0.9159629344940186
+        0.9159629344940186,
+        0.9553518295288086
     ]
 }
