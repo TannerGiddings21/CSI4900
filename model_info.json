@@ -36,6 +36,7 @@
         "[((1, (3, 3)),)]",
         "[((1, (3, 3)),)]",
         "[((1, (3, 3)),)]",
+        "[((1, (3, 3)),)]",
         "[((1, (3, 3)),)]"
     ],
     "Dense": [
@@ -75,6 +76,7 @@
         "[(64,)]",
         "[(64,)]",
         "[(64,)]",
+        "[(128,)]",
         "[(128,)]"
     ],
     "act_func": [
@@ -114,6 +116,7 @@
         "tanh",
         "tanh",
         "tanh",
+        "relu",
         "relu"
     ],
     "batch_size": [
@@ -153,7 +156,8 @@
         32,
         64,
         128,
-        16
+        16,
+        32
     ],
     "filename": [
         "model_configs/model0_savefile",
@@ -192,7 +196,8 @@
         "model_configs/model33_savefile",
         "model_configs/model34_savefile",
         "model_configs/model35_savefile",
-        "model_configs/model36_savefile"
+        "model_configs/model36_savefile",
+        "model_configs/model37_savefile"
     ],
     "accuracy": [
         0.9399444460868835,
@@ -231,6 +236,7 @@
         0.9675185084342957,
         0.9698518514633179,
         0.963351845741272,
-        0.9738703966140747
+        0.9738703966140747,
+        0.9791666865348816
     ]
 }
