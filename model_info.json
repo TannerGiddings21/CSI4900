@@ -16,6 +16,7 @@
         "[((1, (3, 3)),)]",
         "[((1, (3, 3)),)]",
         "[((1, (3, 3)),)]",
+        "[((1, (3, 3)),)]",
         "[((1, (3, 3)),)]"
     ],
     "Dense": [
@@ -31,6 +32,7 @@
         "[(16,)]",
         "[(16,)]",
         "[(16,)]",
+        "[(32,)]",
         "[(32,)]",
         "[(32,)]",
         "[(32,)]",
@@ -54,6 +56,7 @@
         "relu",
         "relu",
         "relu",
+        "sigmoid",
         "sigmoid"
     ],
     "batch_size": [
@@ -73,7 +76,8 @@
         32,
         64,
         128,
-        16
+        16,
+        32
     ],
     "filename": [
         "model_configs/model0_savefile",
@@ -92,7 +96,8 @@
         "model_configs/model13_savefile",
         "model_configs/model14_savefile",
         "model_configs/model15_savefile",
-        "model_configs/model16_savefile"
+        "model_configs/model16_savefile",
+        "model_configs/model17_savefile"
     ],
     "accuracy": [
         0.9399444460868835,
@@ -111,6 +116,7 @@
         0.9588333368301392,
         0.943240761756897,
         0.949999988079071,
-        0.9306851625442505
+        0.9306851625442505,
+        0.9327407479286194
     ]
 }
