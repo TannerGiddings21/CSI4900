@@ -7,6 +7,7 @@
         "[((1, (3, 3)),)]",
         "[((1, (3, 3)),)]",
         "[((1, (3, 3)),)]",
+        "[((1, (3, 3)),)]",
         "[((1, (3, 3)),)]"
     ],
     "Dense": [
@@ -16,6 +17,7 @@
         "[(64,)]",
         "[(64,)]",
         "[(64,)]",
+        "[(128,)]",
         "[(128,)]",
         "[(128,)]"
     ],
@@ -27,7 +29,8 @@
         64,
         128,
         32,
-        64
+        64,
+        128
     ],
     "filename": [
         "model_configs/model0_savefile",
@@ -37,7 +40,8 @@
         "model_configs/model4_savefile",
         "model_configs/model5_savefile",
         "model_configs/model6_savefile",
-        "model_configs/model7_savefile"
+        "model_configs/model7_savefile",
+        "model_configs/model8_savefile"
     ],
     "accuracy": [
         0.95848149061203,
@@ -47,6 +51,7 @@
         0.9322962760925293,
         0.9649259448051453,
         0.962148129940033,
-        0.9751851558685303
+        0.9751851558685303,
+        0.9528889060020447
     ]
 }
