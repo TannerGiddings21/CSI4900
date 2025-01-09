@@ -5,6 +5,7 @@
         "[()]",
         "[()]",
         "[()]",
+        "[()]",
         "[()]"
     ],
     "Dense": [
@@ -13,9 +14,11 @@
         "[(128,)]",
         "[(256,)]",
         "[(32, 32)]",
-        "[(32, 64)]"
+        "[(32, 64)]",
+        "[(32, 128)]"
     ],
     "batch_size": [
+        64,
         64,
         64,
         64,
@@ -29,7 +32,8 @@
         "model_configs/model2_savefile",
         "model_configs/model3_savefile",
         "model_configs/model4_savefile",
-        "model_configs/model5_savefile"
+        "model_configs/model5_savefile",
+        "model_configs/model6_savefile"
     ],
     "accuracy": [
         0.9551481604576111,
@@ -37,6 +41,7 @@
         0.9759629368782043,
         0.982796311378479,
         0.959685206413269,
-        0.9622592329978943
+        0.9622592329978943,
+        0.9637963175773621
     ]
 }
