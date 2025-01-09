@@ -9,9 +9,11 @@
         "[((1, (3, 3)),)]",
         "[((1, (3, 3)),)]",
         "[((1, (3, 3)),)]",
+        "[((1, (3, 3)),)]",
         "[((1, (3, 3)),)]"
     ],
     "Dense": [
+        "[(16,)]",
         "[(16,)]",
         "[(16,)]",
         "[(16,)]",
@@ -33,6 +35,7 @@
         "sigmoid",
         "sigmoid",
         "tanh",
+        "tanh",
         "tanh"
     ],
     "batch_size": [
@@ -45,7 +48,8 @@
         64,
         128,
         16,
-        32
+        32,
+        64
     ],
     "filename": [
         "model_configs/model0_savefile",
@@ -57,7 +61,8 @@
         "model_configs/model6_savefile",
         "model_configs/model7_savefile",
         "model_configs/model8_savefile",
-        "model_configs/model9_savefile"
+        "model_configs/model9_savefile",
+        "model_configs/model10_savefile"
     ],
     "accuracy": [
         0.9399444460868835,
@@ -69,6 +74,7 @@
         0.9087777733802795,
         0.8913703560829163,
         0.9361481666564941,
-        0.9398148059844971
+        0.9398148059844971,
+        0.9346481561660767
     ]
 }
