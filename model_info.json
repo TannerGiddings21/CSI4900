@@ -1,0 +1,1 @@
+{"CNN": [[[1, [2, 2]]]], "Dense": [[16]], "act_func": ["relu"], "batch_size": [4], "filename": ["model_configs/model0_savefile"], "accuracy": [0.9251481294631958]}
