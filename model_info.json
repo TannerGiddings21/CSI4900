@@ -2,14 +2,17 @@
     "CNN": [
         "[()]",
         "[()]",
+        "[()]",
         "[()]"
     ],
     "Dense": [
         "[(32,)]",
         "[(64,)]",
-        "[(128,)]"
+        "[(128,)]",
+        "[(256,)]"
     ],
     "batch_size": [
+        64,
         64,
         64,
         64
@@ -17,11 +20,13 @@
     "filename": [
         "model_configs/model0_savefile",
         "model_configs/model1_savefile",
-        "model_configs/model2_savefile"
+        "model_configs/model2_savefile",
+        "model_configs/model3_savefile"
     ],
     "accuracy": [
         0.9551481604576111,
         0.9684814810752869,
-        0.9759629368782043
+        0.9759629368782043,
+        0.982796311378479
     ]
 }
