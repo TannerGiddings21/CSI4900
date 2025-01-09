@@ -1,1 +1,1 @@
-{"CNN": ["[()]"], "Dense": ["[(32,)]"], "batch_size": [64], "filename": ["model_configs/model0_savefile"], "accuracy": [0.9527222514152527], "num1": [4], "num2": [1]}
+{"CNN": ["[()]", "[()]"], "Dense": ["[(32,)]", "[(64,)]"], "batch_size": [64, 64], "filename": ["model_configs/model0_savefile", "model_configs/model1_savefile"], "accuracy": [0.9527222514152527, 0.9663518667221069], "num1": [4, 4], "num2": [1, 7]}
