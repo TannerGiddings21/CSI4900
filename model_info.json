@@ -1,1 +1,0 @@
-{"CNN": ["[()]", "[()]"], "Dense": ["[(64,)]", "[(128,)]"], "filename": ["model_configs/model0_savefile", "model_configs/model1_savefile"], "accuracy": [0.9695555567741394, 0.9779815077781677], "num1": [4, 5], "num2": [7, 7], "accuracy_timeline": []}
